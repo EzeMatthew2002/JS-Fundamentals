@@ -1,4 +1,4 @@
-const bool = "HE";
+const bool = "";
 const hbtn = "HBTN";
 const school = "school";
 if (bool === "") {
