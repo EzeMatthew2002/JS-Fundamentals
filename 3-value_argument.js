@@ -1,4 +1,4 @@
-const bool = "school";
+const bool = "";
 if(bool === ""){
   console.log("No argument");
 } else{
