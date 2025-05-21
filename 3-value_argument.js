@@ -1,10 +1,9 @@
 const bool = "";
-const hbtn = "HBTN";
-const school = "school";
+
 if (bool === "") {
   console.log("No argument");
-} else if (hbtn === "HBTN") {
+} else if (bool === "HBTN") {
   console.log("HBTN");
-} else {
+} else if (bool === "HBTN cool") {
   console.log("HBTN cool");
 }
