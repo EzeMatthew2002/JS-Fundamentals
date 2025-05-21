@@ -6,5 +6,5 @@ if (bool === "") {
 } else if (hbtn === "HBTN") {
   console.log("HBTN");
 } else {
-  console.log("School");
+  console.log("HBTN cool");
 }
