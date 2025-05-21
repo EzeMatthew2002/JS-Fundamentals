@@ -1,5 +1,5 @@
 const fun = "C is fun";
-const python = "Phytho is cool";
+const python = "Python is cool";
 const JavaScript = "JavaScript is amazing";
 console.log(fun);
 console.log(python);
